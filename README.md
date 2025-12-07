@@ -1,10 +1,10 @@
-👋 #Hey, I'm **Bhumi Lotankar**
+👋 Hey, I'm **Bhumi Lotankar**
 
-💻 Developer | Tech Enthusiast | Problem Solver
+💻 **Developer | Tech Enthusiast | Problem Solver**
 
 Welcome to my GitHub profile! I love building things, learning new technologies, and contributing to cool projects.
 
-🚀 About Me
+🚀 **About Me**
 💻 Passionate about Web Development & Mobile App Development
 
 🔭 I’m currently working on: Career360 - A unified Career Counselling Platform
@@ -13,16 +13,17 @@ Welcome to my GitHub profile! I love building things, learning new technologies,
 
 📚 Enjoy explaining concepts & teaching whenever possible
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
-Languages:
+**Languages:**
+
 JavaScript • TypeScript • Python • C++ • Java
 
-Frontend:
+**Frontend:**
 React  • Tailwind • HTML • CSS
 
-Backend:
+**Backend:**
 Node.js • Express • MongoDB • SQL
 
-Tools & Others:
+**Tools & Others:**
 Git  •  Figma

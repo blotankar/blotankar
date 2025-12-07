@@ -1,4 +1,4 @@
-👋 Hey, I'm Bhumi Lotankar
+👋 Hey, I'm *Bhumi Lotankar*
 
 💻 Developer | Tech Enthusiast | Problem Solver
 

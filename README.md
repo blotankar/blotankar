@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hey, I'm Bhumi Lotankar
 
-<!--
-**blotankar/blotankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | Tech Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I love building things, learning new technologies, and contributing to cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+💻 Passionate about Web Development & Mobile App Development
+
+🔭 I’m currently working on: Career360 - A unified Career Counselling Platform
+
+🎯 Always in “keep improving” mode!
+
+📚 Enjoy explaining concepts & teaching whenever possible
+
+🛠 Tech Stack
+
+Languages:
+JavaScript • TypeScript • Python • C++ • Java
+
+Frontend:
+React  • Tailwind • HTML • CSS
+
+Backend:
+Node.js • Express • MongoDB • SQL
+
+Tools & Others:
+Git  •  Figma
